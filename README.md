@@ -1,6 +1,7 @@
 <!---
 {
   "id": "5adc24d3-4054-453e-80dd-30a820be8ed3",
+  "teaches": "Using `argc` and `argv` in C",
   "depends_on": ["0b6b3ce8-418e-4900-ae42-a6d068389a12"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-26",
